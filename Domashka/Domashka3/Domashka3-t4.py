@@ -1,3 +1,4 @@
+#task4
 text = input("Введіть текст:")
 
 my_list = text.split()

@@ -1,3 +1,5 @@
+#task5
+
 ip = input("Введіть IP адресу:")
 
 sections=ip.split('.')
