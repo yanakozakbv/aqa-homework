@@ -1,3 +1,5 @@
+#task3
+
 email = input("Введіть email:")
 
 if email.count('@') == 1:

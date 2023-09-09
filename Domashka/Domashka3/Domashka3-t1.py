@@ -1,3 +1,4 @@
+#task1
 import sys
 
 word = input("Введіть слово:")
