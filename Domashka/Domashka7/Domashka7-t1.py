@@ -1,8 +1,6 @@
 def sum_range(start: int, end: int):
     if start > end:
-        temp = start
-        start = end
-        end = temp
+        start, end = end, start
     total = sum(range(start, end + 1))
     return total
 
